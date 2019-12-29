@@ -9,4 +9,4 @@ Extract features using standard pca and classify using knn.
 Eigen_PCA.py
 Extract features by calculating covmatrix,eigen values and eigen vectors calculate pca and classify using knn.
 
-Try Data provided in Zip files.
+Try with data provided in Zip files.
